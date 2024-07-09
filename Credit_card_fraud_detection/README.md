@@ -1,6 +1,4 @@
 # Credit Card Fraud Detection
-<img src = "https://miro.medium.com/v2/resize:fit:640/0*_6WEDnZubsQfTMlY.png">
-<br>
 
 This repository contains the Credit Card Fraud Detection project developed as part of the Data Science Internship at `CodSoft`
 
@@ -27,8 +25,5 @@ The objective of this project is to detect fraudulent credit card transactions u
 - **Classification Metrics**:
   - Precision, Recall, F1-Score for both classes: ~0.90
 
-## Contact Information
-For any inquiries or feedback regarding this project, please contact:
 
-- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
-- Email: tufan.kundu11@gmail.com
+
